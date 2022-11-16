@@ -22,4 +22,5 @@ xmltodict==0.12.0
 yagmail==0.11.220
 yapf==0.28.0
 streamlit==1.14.1
+demjson==2.2.4
 
